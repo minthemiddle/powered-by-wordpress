@@ -1,6 +1,6 @@
 # Powered By WordPress
 
-About 25% of the web are powered by WordPress. Most of it are private blogs but also heavy-weights such as [The New Yorker](http://www.newyorker.com/) or [TechCrunch](http://techcrunch.com/). But there is the claim that WordPress is not suitable for professional websites beyond blogs. Here is a comprehensible collection to counter this impression.
+About 25% of the web are powered by WordPress. Most of it are private blogs but also heavy-weights such as [The New Yorker](http://www.newyorker.com/) or [TechCrunch](http://techcrunch.com/). But there is the claim that WordPress is not suitable for professional websites beyond blogs. Here is a collection of currently about 30 high-quality sites to counter this impression.
 
 This list was originally based on a blog posts on [WinningWP](http://winningwp.com/examples-of-big-name-brands-and-businesses-using-wordpress/). It has been updated and extended with new sites and Alexa rankings.
 
