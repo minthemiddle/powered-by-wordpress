@@ -11,7 +11,7 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 ## Top 5
 
 - [Silkroad HR](http://www.silkroad.com) (5.228)
-- [GuildWars2 (Game)](guildwars2.com)(5.538)
+- [GuildWars2 (Game)](https://www.guildwars2.com)(5.538)
 - [PlutoTV](http://pluto.tv/)(5.568)
 - [National Museum of African Art](https://africa.si.edu/) (7.854)
 - [NoMansSky (Game)](http://www.no-mans-sky.com) (11.890)
@@ -28,7 +28,7 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 
 ## Entertainment
 
-- [GuildWars2 (Game)](guildwars2.com)(5.538)
+- [GuildWars2 (Game)](https://www.guildwars2.com)(5.538)
 - [PlutoTV](http://pluto.tv/)(5.568)
 - [NoMansSky (Game)](http://no-mans-sky.com) (11.890)
 - [Beyonce](http://www.beyonce.com/) (42.507)
