@@ -25,7 +25,7 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 - [Wolverine Worldwide](http://www.wolverineworldwide.com/) (206.293)
 - [Tilda Rice](http://www.tilda.com/) (461.057)
 - [Izod Sportswear](http://izod.com/) (484.506)
-- [Bloomberg Professional](https://www.bloomberg.com/professional/) (N/A)
+- [Bloomberg Professional](https://www.bloomberg.com/professional/) (N/A, 372)
 - [Blackbaud K12 Product Line](http://k12.blackbaud.com/) (N/A, 21.098)
 
 ## Entertainment
