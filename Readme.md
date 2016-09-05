@@ -13,8 +13,8 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 - [Silkroad HR](http://www.silkroad.com) (5.228)
 - [GuildWars2 (Game)](https://www.guildwars2.com)(5.538)
 - [PlutoTV](http://pluto.tv/)(5.568)
+- [Official Missource State Website](http://www.mo.gov/) (6.173)
 - [National Museum of African Art](https://africa.si.edu/) (7.854)
-- [NoMansSky (Game)](http://www.no-mans-sky.com) (11.890)
 
 ## Commercial
 
@@ -44,5 +44,10 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 ## Culture
 
 - [National Museum of African Art](https://africa.si.edu/) (7.854)
+
+
+## Politics
+
+- [Official Missource State Website](http://www.mo.gov/) (6.173)
 
 
