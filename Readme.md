@@ -14,7 +14,7 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 - [GuildWars2 (Game)](https://www.guildwars2.com)(5.538)
 - [PlutoTV](http://pluto.tv/)(5.568)
 - [Official Missource State Website](http://www.mo.gov/) (6.173)
-- [National Museum of African Art](https://africa.si.edu/) (7.854)
+- [Georgia State University](http://www.gsu.edu/) (6.531)
 
 ## Commercial
 
@@ -50,4 +50,7 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 
 - [Official Missource State Website](http://www.mo.gov/) (6.173)
 
+## Education
+
+- [Georgia State University](http://www.gsu.edu/) (6.531)
 
