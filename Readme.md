@@ -98,4 +98,7 @@ There are 3 ways to contribute to this list:
 
 # About
 
-This list was originally based on a blog posts on [WinningWP](http://winningwp.com/examples-of-big-name-brands-and-businesses-using-wordpress/). It has been updated and extended massively with new sites and Alexa rankings.
+- This list is being curated by [Martin](https://www.martinbetz.eu) |Betz](https://twitter.com/Martin_Betz)
+- It was originally based on a blog posts on [WinningWP](http://winningwp.com/examples-of-big-name-brands-and-businesses-using-wordpress/). It has been updated and extended massively with new sites and Alexa rankings.
+- The list contains hand-picked and tested sites that go beyond news and blogs and show what WordPress can do
+- Excluded are also WordPress Themes Sellers
