@@ -4,7 +4,7 @@ About 25% of the web is powered by WordPress. Most sites are private blogs but a
 
 Nonetheless, there are voices claiming that WordPress would not be suitable for professional websites beyond blogs. Here is a collection of currently about 30 high-quality sites and CMSes to counter this impression.
 
-The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranking when the WordPress instance is in a subdirectory or subdomain and Alexa outputs the parent's ranking. Parent ranking must be in the TOP 1 million.
+The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranking when the WordPress instance is in a subdirectory or subdomain and Alexa outputs the parent's ranking. Parent ranking must be in the global TOP 1 million.
 
   * [WordPress Powered Sites](#wordpress-powered-sites)
     * [Top 5](#top-5)
