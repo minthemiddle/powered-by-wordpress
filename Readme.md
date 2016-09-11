@@ -52,7 +52,7 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 - [007 Franchise](http://www.007.com/) (214.347)
 - [Motley Crue](http://www.motley.com/) (420.452)
 - [The Riverdance](http://riverdance.com/) (576.666)
-- [AMC TV](amctv.com/) (747.537)
+- [AMC TV](http://amctv.com/) (747.537)
 
 ## Software
 
@@ -68,7 +68,7 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 
 ## Politics
 
-- [Official Missource State Website](http://www.mo.gov/) (6.173)
+- [Official Missouri State Website](http://www.mo.gov/) (6.173)
 
 ## Education
 
