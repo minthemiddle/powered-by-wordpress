@@ -22,14 +22,15 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 ## Top 5
 
 - [Sony Mobile](http://www.sonymobile.com) (2.667)
+- [DynDNS](http://dyn.com/) (3.716)
 - [Silkroad HR](http://www.silkroad.com) (5.228)
 - [GuildWars2 (Game)](https://www.guildwars2.com)(5.538)
 - [PlutoTV](http://pluto.tv/)(5.568)
-- [Official Missouri State Website](http://www.mo.gov/) (6.173)
 
 ## Commercial
 
 - [Sony Mobile](http://www.sonymobile.com) (2.667)
+- [DynDNS](http://dyn.com/) (3.716)
 - [RenWeb Student Information System](http://renweb.com/) (11.385)
 - [Quantcast](https://www.quantcast.com/) (11.442)
 - [Mercedes Benz](https://www.mercedes-benz.com) (14.151)
