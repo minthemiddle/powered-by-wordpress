@@ -2,11 +2,9 @@
 
 About 25% of the web are powered by WordPress. Most of it are private blogs but also heavy-weights such as [The New Yorker](http://www.newyorker.com/) or [TechCrunch](http://techcrunch.com/). But there is the claim that WordPress is not suitable for professional websites beyond blogs. Here is a collection of currently about 30 high-quality sites to counter this impression.
 
-This list was originally based on a blog posts on [WinningWP](http://winningwp.com/examples-of-big-name-brands-and-businesses-using-wordpress/). It has been updated and extended with new sites and Alexa rankings.
-
-You can contribute to this list via submitting an Issue with the subject `Add:` or correct a wrong entry with `Fix:`. Pull requests are also welcomed. Please double check each entry using [`Wappalyzer`](http://www.wapalyzer.com) (either with the browser PlugIn or [on the command-line](https://www.npmjs.com/package/wappalyzer-cli). Sites must have an TOP 1 million Alexa Ranking to be considered.
-
 The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranking when the WordPress instance is in a subdirectory or subdomain and Alexa outputs the parent's ranking. Parent ranking must be in the TOP 1 million.
+
+# WordPress Powered Sites
 
 ## Top 5
 
@@ -61,3 +59,16 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 
 - [Georgia State University](http://www.gsu.edu/) (6.531)
 
+# Contribute
+
+There are 3 ways to contribute to this list:
+
+- You can send me a DM on Twitter [@martin_betz](https://twitter.com/Martin_Betz)
+- You can send me a [mail](mailto:martinmichaelbetz+poweredbywp@gmail.com?subject=ADD New Site)
+
+- You can contribute to this list via submitting an Issue with the subject `Add:` or correct a wrong entry with `Fix:`. Pull requests are also welcomed. Please double check each entry using [`Wappalyzer`](http://www.wapalyzer.com) (either with the browser PlugIn or [on the command-line](https://www.npmjs.com/package/wappalyzer-cli). Sites must have an TOP 1 million Alexa Ranking to be considered.
+
+
+# About
+
+This list was originally based on a blog posts on [WinningWP](http://winningwp.com/examples-of-big-name-brands-and-businesses-using-wordpress/). It has been updated and extended massively with new sites and Alexa rankings.
