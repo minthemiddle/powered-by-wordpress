@@ -66,6 +66,7 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 - [Qualtrics](http://qualtrics.com) (1.307)
 - [Silkroad HR](http://www.silkroad.com) (5.228)
 - [Blender.org](https://www.blender.org/) (7.064)
+- [Salesforce Pardot](http://www.pardot.com/) (7.996)
 - [Second Street](http://secondstreet.com/) (204.933)
 
 ## Culture
