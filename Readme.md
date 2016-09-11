@@ -4,6 +4,17 @@ About 25% of the web are powered by WordPress. Most of it are private blogs but 
 
 The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranking when the WordPress instance is in a subdirectory or subdomain and Alexa outputs the parent's ranking. Parent ranking must be in the TOP 1 million.
 
+  * [WordPress Powered Sites](#wordpress-powered-sites)
+    * [Top 5](#top-5)
+    * [Commercial](#commercial)
+    * [Entertainment](#entertainment)
+    * [Software](#software)
+    * [Culture](#culture)
+    * [Politics](#politics)
+    * [Education](#education)
+  * [Contribute](#contribute)
+  * [About](#about)
+
 # WordPress Powered Sites
 
 ## Top 5
