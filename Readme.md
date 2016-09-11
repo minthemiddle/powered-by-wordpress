@@ -21,11 +21,11 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 
 ## Top 5
 
+- [jQuery](http://jquery.com/) (1.245)
 - [Sony Mobile](http://www.sonymobile.com) (2.667)
 - [DynDNS](http://dyn.com/) (3.716)
 - [Silkroad HR](http://www.silkroad.com) (5.228)
 - [GuildWars2 (Game)](https://www.guildwars2.com)(5.538)
-- [PlutoTV](http://pluto.tv/)(5.568)
 
 ## Commercial
 
@@ -61,6 +61,7 @@ The notion is `Name (Alexa Ranking, Geography)`. `(N/A)` is used for Alexa Ranki
 
 ## Software
 
+- [jQuery](http://jquery.com/) (1.245)
 - [Qualtrics](http://qualtrics.com) (1.307)
 - [Silkroad HR](http://www.silkroad.com) (5.228)
 - [Blender.org](https://www.blender.org/) (7.064)
