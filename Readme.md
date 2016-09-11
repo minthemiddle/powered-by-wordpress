@@ -22,10 +22,10 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 ## Top 5
 
 - [jQuery](http://jquery.com/) (1.245)
+- [Qualtrics](http://qualtrics.com) (1.307)
 - [Sony Mobile](http://www.sonymobile.com) (2.667)
 - [DynDNS](http://dyn.com/) (3.716)
 - [Silkroad HR](http://www.silkroad.com) (5.228)
-- [GuildWars2 (Game)](https://www.guildwars2.com)(5.538)
 
 ## Commercial
 
