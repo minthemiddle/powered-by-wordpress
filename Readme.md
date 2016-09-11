@@ -40,6 +40,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [Glipsa](http://www.glispa.com/) (75.754)
 - [Bata Shoes](www.bata.com) (117.745)
 - [Wolverine Worldwide](http://www.wolverineworldwide.com/) (206.293)
+- [The Enthustiast Network](http://www.enthusiastnetwork.com/) (277.705)
 - [Tilda Rice](http://www.tilda.com/) (461.057)
 - [Izod Sportswear](http://izod.com/) (484.506)
 - [Bloomberg Professional](https://www.bloomberg.com/professional/) (N/A, 372)
