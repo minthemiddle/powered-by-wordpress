@@ -45,6 +45,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [The Enthustiast Network](http://www.enthusiastnetwork.com/) (277.705)
 - [Tilda Rice](http://www.tilda.com/) (461.057)
 - [Izod Sportswear](http://izod.com/) (484.506)
+- [ExpressJet](http://www.expressjet.com/passengers/) (812.850)
 - [Bloomberg Professional](https://www.bloomberg.com/professional/) (N/A, 372)
 - [Blackbaud K12 Product Line](http://k12.blackbaud.com/) (N/A, 21.098)
 
