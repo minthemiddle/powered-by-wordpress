@@ -40,6 +40,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [Optimise Media](https://www.optimisemedia.com/) (53.463)
 - [BigPoint Games](http://www.bigpoint.net/) (56.590)
 - [Glipsa](http://www.glispa.com/) (75.754)
+- [TribuneMedia](http://www.tribunemedia.com/) (93.661)
 - [Bata Shoes](www.bata.com) (117.745)
 - [Wolverine Worldwide](http://www.wolverineworldwide.com/) (206.293)
 - [The Enthustiast Network](http://www.enthusiastnetwork.com/) (277.705)
