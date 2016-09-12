@@ -35,6 +35,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [Quantcast](https://www.quantcast.com/) (11.442)
 - [Mercedes Benz](https://www.mercedes-benz.com) (14.151)
 - [I Will Teach You How To Be Rich](http://www.iwillteachyoutoberich.com/) (18.785)
+- [Renault Group](https://group.renault.com/en/) (21.995)
 - [Optimise Media](https://www.optimisemedia.com/) (53.463)
 - [BigPoint Games](http://www.bigpoint.net/) (56.590)
 - [Glipsa](http://www.glispa.com/) (75.754)
