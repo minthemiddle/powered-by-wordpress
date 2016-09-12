@@ -84,6 +84,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 ## Politics
 
 - [Official Missouri State Website](http://www.mo.gov/) (6.173)
+- [thisisFINLAND](http://finland.fi/) (111.191)
 
 ## Education
 
