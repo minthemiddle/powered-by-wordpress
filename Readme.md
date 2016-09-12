@@ -42,6 +42,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [Toyota Brazil](http://www.toyota.com.br/) (71.436)
 - [Glipsa](http://www.glispa.com/) (75.754)
 - [TribuneMedia](http://www.tribunemedia.com/) (93.661)
+- [Clorox](https://www.clorox.com/) (100.647)
 - [Bata Shoes](www.bata.com) (117.745)
 - [Wolverine Worldwide](http://www.wolverineworldwide.com/) (206.293)
 - [The Enthustiast Network](http://www.enthusiastnetwork.com/) (277.705)
