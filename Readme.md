@@ -16,6 +16,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
     * [Education](#education)
   * [Contribute](#contribute)
   * [About](#about)
+  * [Similar Collections](#similar)
 
 # WordPress Powered Sites
 
@@ -103,3 +104,12 @@ There are 3 ways to contribute to this list:
 - It was originally based on a blog posts on [WinningWP](http://winningwp.com/examples-of-big-name-brands-and-businesses-using-wordpress/). It has been updated and extended massively with new sites and Alexa rankings.
 - The list contains hand-picked and tested sites that go beyond news and blogs and show what WordPress can do
 - Excluded are also WordPress Themes Sellers
+
+
+# Similar Projects
+
+Of course this list is neither the first nor the only one which features companies which use Wordpress. Here are similar great projects:
+
+- (OptimizerWP)[https://optimizerwp.com/wordpress-examples/]
+- (WeLoveWP)[http://welovewp.com/]
+- (WordPress.Org Showcase)[https://wordpress.org/showcase/tag/business/]
