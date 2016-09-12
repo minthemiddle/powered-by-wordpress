@@ -89,6 +89,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 ## Education
 
 - [Georgia State University](http://www.gsu.edu/) (6.531)
+- [Sprott School Of Business](http://sprott.carleton.ca/) (23.406)
 
 # Contribute
 
