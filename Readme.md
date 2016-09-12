@@ -56,6 +56,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [Beyonce](http://www.beyonce.com/) (42.507)
 - [Lollapalooza Festival](http://www.lollapalooza.com/) (50.595)
 - [The Dallas Mavericks](http://www.mavs.com/) (135.750)
+- [Usain Bolt](http://usainbolt.com/) (174.135)
 - [The Rolling Stones](http://www.rollingstones.com/) (191.420)
 - [Sony Music](https://www.sonymusic.com/) (203.349)
 - [007 Franchise](http://www.007.com/) (214.347)
