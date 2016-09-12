@@ -16,7 +16,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
     * [Education](#education)
   * [Contribute](#contribute)
   * [About](#about)
-  * [Similar Collections](#similar)
+  * [Similar Projects](#similar-projects)
 
 # WordPress Powered Sites
 
@@ -110,6 +110,6 @@ There are 3 ways to contribute to this list:
 
 Of course this list is neither the first nor the only one which features companies which use Wordpress. Here are similar great projects:
 
-- (OptimizerWP)[https://optimizerwp.com/wordpress-examples/]
-- (WeLoveWP)[http://welovewp.com/]
-- (WordPress.Org Showcase)[https://wordpress.org/showcase/tag/business/]
+- [OptimizerWP](https://optimizerwp.com/wordpress-examples/)
+- [WeLoveWP](http://welovewp.com/)
+- [WordPress.Org Showcase](https://wordpress.org/showcase/tag/business/)
