@@ -39,6 +39,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [Renault Group](https://group.renault.com/en/) (21.995)
 - [Optimise Media](https://www.optimisemedia.com/) (53.463)
 - [BigPoint Games](http://www.bigpoint.net/) (56.590)
+- [Toyota Brazil](http://www.toyota.com.br/) (71.436)
 - [Glipsa](http://www.glispa.com/) (75.754)
 - [TribuneMedia](http://www.tribunemedia.com/) (93.661)
 - [Bata Shoes](www.bata.com) (117.745)
