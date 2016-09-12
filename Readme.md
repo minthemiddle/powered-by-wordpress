@@ -43,6 +43,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [Bata Shoes](www.bata.com) (117.745)
 - [Wolverine Worldwide](http://www.wolverineworldwide.com/) (206.293)
 - [The Enthustiast Network](http://www.enthusiastnetwork.com/) (277.705)
+- [TrueVentures](https://trueventures.com) (422.282)
 - [Tilda Rice](http://www.tilda.com/) (461.057)
 - [Izod Sportswear](http://izod.com/) (484.506)
 - [ExpressJet](http://www.expressjet.com/passengers/) (812.850)
