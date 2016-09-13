@@ -52,6 +52,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [The Enthustiast Network](http://www.enthusiastnetwork.com/) (277.705)
 - [Tesoro Corp](http://tsocorp.com/) (327.308)
 - [Vivendi Group](http://www.vivendi.com/en/) (337.901)
+- [Dassault Aviation](http://www.dassault-aviation.com/en/) (379.421)
 - [TrueVentures](https://trueventures.com) (422.282)
 - [Tilda Rice](http://www.tilda.com/) (461.057)
 - [Izod Sportswear](http://izod.com/) (484.506)
