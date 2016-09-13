@@ -108,6 +108,12 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 
 # Contribute
 
+There are (at least) 3 types of content you can contribute:
+
+- You can add high-ranking sites one-by-one
+- You can send lists of websites (maybe you or your company has premium access to BuiltWith or similar collectors or you compiled an own list?)
+- You can help this site to grow (spread the word or take responsibility for a task from the roadmap)
+
 There are 3 ways to contribute to this list:
 
 - You can send me a DM on Twitter [@martin_betz](https://twitter.com/Martin_Betz)
