@@ -47,6 +47,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [Bata Shoes](www.bata.com) (117.745)
 - [The Walt Disney Company](https://thewaltdisneycompany.com/) (124.015)
 - [Wolverine Worldwide](http://www.wolverineworldwide.com/) (206.293)
+- [Method Products](http://methodhome.com/) (229.755)
 - [The Enthustiast Network](http://www.enthusiastnetwork.com/) (277.705)
 - [Vivendi Group](http://www.vivendi.com/en/) (337.901)
 - [TrueVentures](https://trueventures.com) (422.282)
