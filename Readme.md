@@ -1,8 +1,9 @@
 # Powered By WordPress
 
-About 25% of the web is powered by WordPress. Most sites are private blogs but also heavy-weights such as [The New Yorker](http://www.newyorker.com/) or [TechCrunch](http://techcrunch.com/) use WordPress. 
+About 25% of the web is powered by WordPress. A big majority of these sites are private blogs but also heavy-weights such as [Sony Mobile](http://www.sonymobile.com) or [Mercedes Benz](https://www.mercedes-benz.com) use WordPress. 
 
-Nonetheless, there are voices claiming that WordPress would not be suitable for professional websites beyond blogs. Here is a collection of currently 50 high-quality sites and CMSes to counter this impression.
+Nonetheless, there are voices claiming that WordPress would not be suitable for professional websites beyond blogs. 
+Here is a growing collection of currently 57 high-quality sites to counter this impression.
 
 The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alexa Ranking when the WordPress instance is in a subdirectory or subdomain and Alexa outputs the parent's ranking. Parent ranking must be in the global TOP 1 million.
 
