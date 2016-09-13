@@ -17,6 +17,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
     * [Education](#education)
   * [Contribute](#contribute)
   * [About](#about)
+    * [Roadmap](#roadmap)
   * [Similar Projects](#similar-projects)
 
 # WordPress Powered Sites
@@ -121,6 +122,13 @@ There are 3 ways to contribute to this list:
 - It was originally based on a blog posts on [WinningWP](http://winningwp.com/examples-of-big-name-brands-and-businesses-using-wordpress/). It has been updated and extended massively with new sites and Alexa rankings.
 - The list contains hand-picked and tested sites that go beyond news and blogs and show what WordPress can do
 - Excluded are also WordPress Themes Sellers
+
+## Roadmap
+
+- [x] Build a solid foundation of high-ranking sites
+- [ ] Create automated and up-to-date screenshots and display on GitHub Page
+- [ ] Conduct interview with developers and editors of high-ranking pages
+- [ ] Add information on used plugins
 
 
 # Similar Projects
