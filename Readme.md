@@ -5,6 +5,13 @@ About 25% of the web is powered by WordPress. A big majority of these sites are 
 Nonetheless, there are voices claiming that WordPress would not be suitable for professional websites beyond blogs. 
 Here is a growing collection of currently 57 high-quality sites to counter this impression.
 
+While there are [several collections](#similar-projects), this list is unique in several ways:
+
+- Only websites that are not in the category news and blogs are being considered (there are [excellent](https://techcrunch.com/) [websites](http://fortune.com/) in both these categories, but this list wants to showcase that WordPress can be used for everything else as well)
+- Only websites in the TOP1M ranking of Alexa are included
+- All websites are ordered by ranking
+- Websites are constantly checked whether they actually still use WordPress
+
 The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alexa Ranking when the WordPress instance is in a subdirectory or subdomain and Alexa outputs the parent's ranking. Parent ranking must be in the global TOP 1 million.
 
   * [WordPress Powered Sites](#wordpress-powered-sites)
