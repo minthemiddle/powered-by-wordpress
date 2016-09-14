@@ -145,3 +145,4 @@ Of course this list is neither the first nor the only one which features compani
 - [OptimizerWP](https://optimizerwp.com/wordpress-examples/)
 - [WeLoveWP](http://welovewp.com/)
 - [WordPress.Org Showcase](https://wordpress.org/showcase/tag/business/)
+- [WordPress VIP Clients](https://vip.wordpress.com/clients/) (many news and blog sites, but also some others)
