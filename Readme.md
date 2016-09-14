@@ -54,7 +54,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [TribuneMedia](http://www.tribunemedia.com/) (93.661)
 - [Clorox](https://www.clorox.com/) (100.647)
 - [Boston Market](https://www.bostonmarket.com) (103.819)
-- [Bata Shoes](www.bata.com) (117.745)
+- [Bata Shoes](http://www.bata.com) (117.745)
 - [The Walt Disney Company](https://thewaltdisneycompany.com/) (124.015)
 - [activEngage](http://activengage.com) (127.598)
 - [Wolverine Worldwide](http://www.wolverineworldwide.com/) (206.293)
