@@ -41,6 +41,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 
 - [Sony Mobile](http://www.sonymobile.com) (2.667)
 - [DynDNS](http://dyn.com/) (3.716)
+- [Plesk](https://www.plesk.com/) (10.531)
 - [RenWeb Student Information System](http://renweb.com/) (11.385)
 - [Quantcast](https://www.quantcast.com/) (11.442)
 - [Mercedes Benz](https://www.mercedes-benz.com) (14.151)
