@@ -46,6 +46,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [Mercedes Benz](https://www.mercedes-benz.com) (14.151)
 - [I Will Teach You How To Be Rich](http://www.iwillteachyoutoberich.com/) (18.785)
 - [Renault Group](https://group.renault.com/en/) (21.995)
+- [Tucows](http://www.tucows.com) (26.522)
 - [Optimise Media](https://www.optimisemedia.com/) (53.463)
 - [BigPoint Games](http://www.bigpoint.net/) (56.590)
 - [Boingo Wireless](http://www.boingo.com/) (69.364)
