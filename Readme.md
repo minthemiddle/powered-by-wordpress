@@ -34,8 +34,8 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 - [jQuery](http://jquery.com/) (1.245)
 - [Qualtrics](http://qualtrics.com) (1.307)
 - [Sony Mobile](http://www.sonymobile.com) (2.667)
+- [University of Washington](http://www.washington.edu/) (2.848)
 - [DynDNS](http://dyn.com/) (3.716)
-- [Silkroad HR](http://www.silkroad.com) (5.228)
 
 ## Commercial
 
@@ -111,6 +111,7 @@ The notion is `Name (Alexa Ranking)`. `(N/A, Parent's Ranking)` is used for Alex
 
 ## Education
 
+- [University of Washington](http://www.washington.edu/) (2.848)
 - [Georgia State University](http://www.gsu.edu/) (6.531)
 - [Sprott School Of Business](http://sprott.carleton.ca/) (23.406)
 
